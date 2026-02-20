@@ -13,6 +13,7 @@
     <meta property="og:description" content="Advisory, incubation, and investment management. Kolkata, New Delhi, Singapore.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.avyayamholdings.com/">
+    <meta property="og:image" content="https://www.avyayamholdings.com/logo.jpg">
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -74,6 +75,15 @@
             justify-content: center;
             padding: clamp(2rem, 5vw, 4rem);
             text-align: center;
+        }
+
+        .hero .logo {
+            width: clamp(80px, 12vw, 120px);
+            height: clamp(80px, 12vw, 120px);
+            border-radius: 50%;
+            object-fit: cover;
+            object-position: center 28%;
+            margin-bottom: 2.5rem;
         }
 
         .hero h1 {
@@ -204,6 +214,7 @@
 <body>
 
     <section class="hero">
+        <img src="logo.jpg" alt="Avyayam Holdings" class="logo" width="120" height="120">
         <h1>Avyayam Holdings</h1>
         <p class="descriptor">Advisory&ensp;&middot;&ensp;Incubation&ensp;&middot;&ensp;Investment Management</p>
     </section>
