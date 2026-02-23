@@ -1,11 +1,8 @@
 # Avyayam Holdings
 
-> Avyayam Holdings is an advisory, incubation, and investment management firm led by Dr. Anirban Mukherjee. Research in AI, quantitative marketing, intellectual property law, and consumer behavior. Papers by the principal and collaborators are hosted here for direct access.
+> Avyayam Holdings is an advisory, incubation, and investment management firm. Research in AI, quantitative marketing, intellectual property law, and consumer behavior.
 
 - [Homepage](https://www.avyayamholdings.com/)
-- [Principal's Personal Site](https://www.anirbanmukherjee.com/)
-- [Google Scholar](https://scholar.google.com/citations?user=V7wCZ5EAAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0001-6381-814X)
 
 ## Published Papers (Direct PDF Access)
 
